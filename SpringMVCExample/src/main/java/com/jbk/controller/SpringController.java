@@ -21,7 +21,7 @@ public class SpringController {
 	
 	@RequestMapping("/loginpage")
 	public String openpage() {
-		
+		System.out.println("Git update trial");
 		return "login";
 		
 	}
