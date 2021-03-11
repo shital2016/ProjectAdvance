@@ -1,0 +1,13 @@
+com\jbk\config\WebConfiguration.class
+com\jbk\entity\Events.class
+com\jbk\entity\Person.class
+com\jbk\config\ApplicationInitializer.class
+com\jbk\service\SpringService.class
+com\jbk\controller\SpringController.class
+com\jbk\entity\Sales.class
+com\jbk\entity\Employee.class
+com\jbk\entity\Registration.class
+com\jbk\entity\Country.class
+com\jbk\config\HibernateConfiguration.class
+com\jbk\dao\SpringMVCDao.class
+com\jbk\entity\Marks1.class
