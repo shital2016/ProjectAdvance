@@ -43,7 +43,7 @@ public class SpringController {
 			System.out.println("Login Fail");
 			mv.setViewName("login");
 		}
-		
+	System.out.println("Happy");	
 	return mv;
 	}
 	
