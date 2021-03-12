@@ -61,7 +61,7 @@ public class SpringController {
 			mv.addObject("msg", "Something Went Wrong , Data Not Found...!!!");
 			mv.setViewName("login");
 		}
-		
+		System.out.println("Created New Branch for adding employee");
 		return mv;
 	}
 }
